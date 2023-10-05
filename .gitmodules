@@ -1,0 +1,3 @@
+[submodule "submodule-service"]
+	path = submodule-service
+	url = https://github.com/mark-williams287/submodule-service.git
